@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552455497400.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1820467126",
+    "id" : "F96AE6C2",
+    "lastKnownWriteTime" : 1552455602,
+    "last_content_update" : 1552455602638,
+    "path" : "D:/GitHub/my-R-practice/2019-03-13.Rmd",
+    "project_path" : "2019-03-13.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "1,18",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
